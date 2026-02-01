@@ -11,26 +11,82 @@
 
 ## 🔗 My Projects
 
-Here are some of my recent projects, each built with TypeScript:
+### React + TypeScript
 
-### [ds-checker-front](https://github.com/walledoll/ds-checker-front)
-> A digital signature verification service. Users can upload documents, view XML content with syntax highlighting, manage a verification queue, and receive detailed reports.
-<img src="demos/dschecker.gif" alt="Демонстрация функционала" width="800"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/store">
+          <img src="demos/store.gif" alt="Store" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/store">Store</a></strong>
+        <br/>
+        <sub>E-commerce application with shopping cart</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/chess">
+          <img src="demos/chess.gif" alt="Chess" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/chess">Chess</a></strong>
+        <br/>
+        <sub>Interactive chess game implementation</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/ds-checker-front">
+          <img src="demos/dschecker.gif" alt="DS Checker" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/ds-checker-front">DS Checker</a></strong>
+        <br/>
+        <sub>Digital signature verification service</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/dreams-chatbot-front">
+          <img src="demos/dreams.gif" alt="Dreams Chatbot" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/dreams-chatbot-front">Dreams Chatbot</a></strong>
+        <br/>
+        <sub>AI-powered dream interpretation chat</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/forms">
+          <img src="demos/forms.gif" alt="Forms" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/forms">Forms Admin Panel</a></strong>
+        <br/>
+        <sub>User management admin interface</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/walledoll/toDoList">
+          <img src="demos/todo.gif" alt="ToDo" width="250"/>
+        </a>
+        <br/>
+        <strong><a href="https://github.com/walledoll/toDoList">ToDo List</a></strong>
+        <br/>
+        <sub>Task management application</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### [dreams-chatbot-front](https://github.com/walledoll/dreams-chatbot-front)
-> A responsive web chat for dream interpretation with voice input and personalized AI analysis.
-<img src="demos/dreams.gif" alt="Демонстрация функционала" width="800"/>
+---
 
-### [dreams-chatbot-back](https://github.com/walledoll/dreams-chatbot-back)
-> REST API for the dream analysis service, built with NestJS, Prisma, and PostgreSQL.
+### Vanilla JavaScript
 
-### [forms](https://github.com/walledoll/forms)
-> A simple and user-friendly admin panel for managing user records: view, edit, create, and delete entries.
-<img src="demos/forms.gif" alt="Демонстрация функционала" width="800"/>
-
-### [toDoList](https://github.com/walledoll/toDoList)
-> A classic ToDo list application, perfect for learning and practicing state management and component architecture.
-<img src="demos/todo.gif" alt="Демонстрация функционала" width="800"/>
+<div align="center">
+  <a href="https://github.com/walledoll/calculator">
+    <img src="demos/calc.png" alt="Calculator" width="400"/>
+  </a>
+  <p><strong><a href="https://github.com/walledoll/calculator">Calculator</a></strong></p>
+  <p>A functional calculator built with pure JavaScript</p>
+</div>
 
 ---
 
